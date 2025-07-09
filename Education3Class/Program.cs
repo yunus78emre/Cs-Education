@@ -9,7 +9,7 @@
 
         kurs kurs2 = new kurs();
         kurs2.KursAdi = "Java";
-        kurs2.Egitmen = "Kerem VArış";
+        kurs2.Egitmen = "Kerem Barzan";
         kurs2.IzlenmeOrani = 50;
 
         kurs kurs3 = new kurs();
