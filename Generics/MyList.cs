@@ -33,5 +33,16 @@ namespace GenericsIntro
         {
             get { return items.Length; }
         }
+    
+        
+        // önemli copilot yardımıyla yapıldı
+        public T this[int index]
+        {
+            get { return items[index]; }
+            set { items[index] = value; }
+        }
+
+
+
     }
 }
